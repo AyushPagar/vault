@@ -2,18 +2,13 @@
 
 > A vault full of absolutely nothing.
 
-Welcome to the Empty Vault — a highly secure place where absolutely nothing is stored.
+## Vault Status
 
-### 📦 Contents
-- Nothing
-- Absolutely nothing
-- Classified nothing
+- Contents: Empty
+- Security: Maximum
+- Secrets: None found
+- Last inspection: Complete
 
-### 🔒 Security Status
-100% secure. Nobody can steal what doesn't exist.
+**Warning:** Opening this vault may result in finding absolutely nothing.
 
-### 🚧 Project Status
-Permanently empty. Maybe something will appear someday.
-
----
-*If you found something here, you're probably in the wrong vault.* 🕵️
+*End of report. Nothing to see here.*
